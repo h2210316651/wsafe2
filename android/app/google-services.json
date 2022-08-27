@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "737639917225",
+    "firebase_url": "https://wsafe-india-default-rtdb.firebaseio.com",
+    "project_id": "wsafe-india",
+    "storage_bucket": "wsafe-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737639917225:android:785db31803bc605a00ebb8",
+        "android_client_info": {
+          "package_name": "in.sollabs.wsafe2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737639917225-60edn6ft177rbj7tapfdf6i6bm625gd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiHcgMabt6vIhBbhZoAWWyuxtIxPEXFjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737639917225-60edn6ft177rbj7tapfdf6i6bm625gd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737639917225-qqedusi64c290tqp5cr0d177c7esi3v2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.sollabs.wsafe2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
